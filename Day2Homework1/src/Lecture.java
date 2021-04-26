@@ -1,7 +1,7 @@
 public class Lecture {
-    int id;
-    String name;
-    String subject;
+    private int id;
+    private String name;
+    private String subject;
 
     public Lecture(int id, String name, String subject) {
         this.id = id;
