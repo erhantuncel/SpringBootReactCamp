@@ -12,6 +12,9 @@ target/*
 .project
 application-dev.properties
 
+# Only Local
+zOnlyLocal
+
 # Log file
 *.log
 
